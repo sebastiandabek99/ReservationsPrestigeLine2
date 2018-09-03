@@ -43,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#139#140#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -65,8 +65,8 @@
       <file leaf-file-name="Voucher.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Voucher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="510">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
                 <element signature="e#152#153#0" expanded="true" />
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536002699879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Voucher mockup without dates">
+      <created>1536003524968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536003524968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -319,7 +326,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding customer class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding customer class" />
+    <MESSAGE value="Voucher mockup without dates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Voucher mockup without dates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -373,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/src/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#139#140#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
@@ -393,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Voucher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#121#122#0" expanded="true" />
             <element signature="e#152#153#0" expanded="true" />
