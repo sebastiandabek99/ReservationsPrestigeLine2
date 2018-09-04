@@ -7,4 +7,10 @@ public class SteeringWheel {
 
     }
 
+    public static void mainApplication() {
+
+        // Code for application lifecycle
+
+    }
+
 }
